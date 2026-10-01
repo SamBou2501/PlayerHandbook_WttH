@@ -1,0 +1,1 @@
+Items your party have encountereed and have specific knowledge of

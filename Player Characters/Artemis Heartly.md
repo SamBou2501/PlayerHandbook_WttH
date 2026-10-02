@@ -14,7 +14,5 @@ She then gained a scholarship at the academy and began studying military tactics
 **Carley’s descriptions:**
 
 - Residual emotional energy in the hat. The emotional idea of who the person USED to be is what Carly draws upon to not be so scared. 
-    
 - Carly’s projecting “the power is within you all along” to someone else (lol love it)
-    
 - Sheltered scholar who has never left the academy, very naive. But she also has a innocent curiosity and love of her new life.

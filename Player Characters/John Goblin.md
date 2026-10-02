@@ -1,6 +1,6 @@
 >[!info] Played by Danila
 
-John goblin is a Goblin Inventor.
+John goblin is a Goblin Inventor. His robot "Roy" he built himself.
 
   
 
@@ -9,6 +9,6 @@ John goblin is a Goblin Inventor.
 
 ---
 
-**Danila's descriptions:**
+### **Danila's descriptions:**
 
 - Scrapwork robot

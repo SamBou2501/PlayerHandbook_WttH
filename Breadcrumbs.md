@@ -1,0 +1,1 @@
+Specific and potentially useful information the group has found throughout their travels and deductions, that is most likely apart of a larger whole.

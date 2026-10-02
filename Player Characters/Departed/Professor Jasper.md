@@ -1,4 +1,4 @@
-Played by matt
+>[!info] Played by matt. Left campaign for now.
 
 Human, who is 50 
 Very long unkept rats nest hair. Very long unkept beard. Long fingernails. Horrible (shrimp emoji) posture. He hasnt showered in a long time. 
@@ -17,7 +17,7 @@ he has been investigating his curse for ages and trying to find out why his curs
 
 --
 
-## Living arrangements 
+### Living arrangements 
 He doesnt bother locking his door
 Theres skeletal hands holding candles and such
 A lot of glass jars 

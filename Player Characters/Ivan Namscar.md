@@ -11,5 +11,4 @@ He is haunted by very annoying persistent whispers, who are telling him to go to
 Victors Descriptions: 
 
 - The voices are very annoying. He doesn’t know if they’re trying to help him or not. The voices are abstract, whispering, changing, many/mixed voices, sometimes they are familiar. 
-    
     - He also sees flashes of gruesome random stuff.

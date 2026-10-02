@@ -12,10 +12,7 @@ Iain’s aunt told him to look at the flier cause it gives money and money is go
 
 ---
 
-Iains descriptions:
-
+### Iain's descriptions:
 - His family don’t know how or why they escaped, nor what happened to their captors, OR why they were being experimented on
-    
     - NOTE: Ivan can hear what the ancestors say to iain, and hears them speaking 
         
--

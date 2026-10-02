@@ -4,7 +4,7 @@
 They get teleported back to the outside of Absalom (you cant just go making portals into the middle of Absalom). 
 It is late at night, and thus the group decides to just go their separate ways to go to sleep. Artemis tries to sneak Hai (a child) into her dorms but that failed, so he went to stay with John instead. 
 
---
+---
 
 The group reconvenes at the Academies' library after being let in by Artemis. They are then found anyway by Lilania who finds them as the group began to move towards her office.
 
@@ -31,15 +31,15 @@ After questioning from the group, Lilania also explained that the sigil is to "v
 3. "People have been going missing in Absalom, which unfortunately in a city as large as Absalom is rather unavoidable. But we have had a noticeable spike recently, including some semi-notable people go missing next to eachother in the Coins region, with the most recent one a week ago"
 4. "We have a potentially corrupt or otherwise rotten officer who we need you to investigate and follow. FInd out who they deal with and talk to - where are they selling information?"
 
---
+---
 
-The group decided to do side quests, and took number 3 - "Find missing person" 
+The group decided to do side quests, and took number 3 - "Find missing person".
 Lilania was very hesitant to give a name and description as the person is a relatively well known up and coming politician. She gave his alias "**Lonraden**", and described him as a tall charismatic green skinned orc with prominent rounded tusks and short black hair. 
 Lonraden was last seen a week ago in a fighters club he frequented in "the coins" region of Absalom. The party head off to that area.
 
 >Before they head off the party does take a half-day interlude/shopping montage to spend their gold, especially as Liliana offered a small discount to arms as they are a military academy. 
 
-They get to one of the more prominent and  respectable fighting clubs during the early evening. It's a pretty high-end club that John Goblin also funnily enough fights at here and there (however robot fights are different evenings to people fighting).
+They get to one of the more prominent and respectable fighting clubs during the early evening - The Gilded Gauntlet Society. It's a pretty high-end club that John Goblin also funnily enough fights at here and there (however robot fights are different evenings to people fighting).
 After getting let in through the back by John, they go and talk to  to **Ver** - a half-giant dressed in a long white dress shirt and a black vest who is the promotional floor guy for the ring. He mentions that yeah Lonraden was a regular, who had some cash as he was quite frequently at the fight club watching.
 
 Now inside the fight club with fights starting soon, the group decides to do some investigating and exploring:
@@ -63,7 +63,7 @@ However, sensing he wasn't saying everything, Dancer pressed him. He revealed th
 On their way out of the staff rooms, they run into Hogak, who after chatting with him a bit pulls out a knife "Poking around!" and begins to attack them. Hai and Artemis frantically used AoE effects from through the wall to try and help their companions against this attacker, who John and Dancer quickly quickly got under control.
 Hodak after being pressed reveals he did infact attack Lonraden and leave him to die a couple of streets over.
 
---
+---
 
 The adventurers head off towards said Street. When there, Artemis uses her architectural knowledge to find hidden areas and Hai followed the blood into a secret passageway. The passageway was unlocked, and went down into dark dimly lit corridor with multiple rooms, and a very long tunnel-corridor that led into darkness.
 
